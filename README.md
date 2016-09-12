@@ -1,5 +1,5 @@
 # About
-This is a collection of tutorials useful for getting new students in computational science up and running.
+This is a collection of tutorials useful for helping new students to get up and running in computational science.
 
 # Getting Started
 
@@ -40,6 +40,7 @@ This is a collection of tutorials useful for getting new students in computation
 - [Modern Programming Languages: Fortran 90/95/2003/2008](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 
 ## Python
+- http://www.scipy-lectures.org/
 
 # Parallel Computing
 
@@ -58,12 +59,11 @@ This is a collection of tutorials useful for getting new students in computation
 ## Keep Functions Short
 
 # Recommended Reading
-- http://www.scipy-lectures.org/
 - http://choosealicense.com/
 
 ## Books
 - Metcalf, Reid, & Cohen
-- K & R
 - Stroustrupp The C++ Programming Language
 - C++ Primer
 - Professional C++
+- [Pro Git by Chacon & Straub](https://git-scm.com/book/en/v2)
