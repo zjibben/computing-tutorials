@@ -1,6 +1,8 @@
 # About
 This is a collection of tutorials useful for helping new students to get up and running in computational science.
 
+Most resources here are freely available online, but in some cases a good book is also listed. The advanced material provided at the end is almost entirely books available for purchase.
+
 # Getting Started
 
 # Using the Terminal
@@ -58,10 +60,10 @@ This is a collection of tutorials useful for helping new students to get up and 
 
 ## Keep Functions Short
 
-# Recommended Reading
+# Miscellaneous
 - http://choosealicense.com/
 
-## Books
+# Beyond the Basics
 - Metcalf, Reid, & Cohen
 - Stroustrupp The C++ Programming Language
 - C++ Primer
