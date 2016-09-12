@@ -9,7 +9,7 @@ Most resources here are freely available online, but in some cases a good book i
 - [Learn Enough Command Line to Be Dangerous by Hartl](https://www.learnenough.com/command-line-tutorial)
 
 # Text Editors
-You will likely be spending some time on a computer cluster through SSH, so having some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development
+You will likely be spending some time on a computer cluster through SSH, so having some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development.
 
 - `$ vimtutor`
 - `C-h t` within Emacs or `$ emacs --eval "(help-with-tutor)"`
