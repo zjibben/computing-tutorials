@@ -11,8 +11,14 @@ Most resources here are freely available online, but in some cases a good book i
 # Text Editors
 You will likely be spending some time on a computer cluster through SSH, so having some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development.
 
-- `$ vimtutor`
+## Emacs
 - `C-h t` within Emacs or `$ emacs --eval "(help-with-tutor)"`
+- [Absolute Beginner's Guide to Emacs by Hamrick](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
+- [Beginner's Guide to Emacs by Petersen](https://www.masteringemacs.org/article/beginners-guide-to-emacs)
+
+## Vim
+- `$ vimtutor`
+- [A Vim Tutorial and Primer by Miessler](https://danielmiessler.com/study/vim/)
 
 # Software Development
 
