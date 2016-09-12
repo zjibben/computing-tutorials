@@ -8,6 +8,12 @@ Most resources here are freely available online, but in some cases a good book i
 # Using the Terminal
 - [Learn Enough Command Line to Be Dangerous by Hartl](https://www.learnenough.com/command-line-tutorial)
 
+# Text Editors
+You will likely be spending some time on a computer cluster through SSH, so having some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development
+
+- `$ vimtutor`
+- `C-h t` within Emacs or `$ emacs --eval "(help-with-tutor)"`
+
 # Software Development
 
 ## How to Use a Compiler
@@ -69,3 +75,5 @@ Most resources here are freely available online, but in some cases a good book i
 - C++ Primer
 - Professional C++
 - [Pro Git by Chacon & Straub](https://git-scm.com/book/en/v2)
+- [Mastering Emacs by Petersen](https://www.masteringemacs.org/)
+- [Practical Vim by Neil](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
