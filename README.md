@@ -26,6 +26,12 @@ You will likely be spending some time on a computer cluster through SSH, so havi
 
 ### Important Compiler Flags
 
+## Best Practices
+
+### Cleanliness First, Optimization Later
+### Avoid Global Variables
+### Keep Functions Short
+
 # Version Control
 - [Learn Enough Git to Be Dangerous by Hartl](https://www.learnenough.com/git-tutorial)
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
@@ -54,23 +60,11 @@ You will likely be spending some time on a computer cluster through SSH, so havi
 - [Modern Programming Languages: Fortran 90/95/2003/2008](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 
 ## Python
-- http://www.scipy-lectures.org/
+- [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 
 # Parallel Computing
-
-## MPI
-- http://mpitutorial.com/
-
-## OpenMP
-- https://computing.llnl.gov/tutorials/openMP/
-
-# Programming Best Practices
-
-## Cleanliness First, Optimization Later 
-
-## Avoid Global Variables
-
-## Keep Functions Short
+- [MPI Tutorial by Kendall, Nath, & Bland](http://mpitutorial.com/)
+- [OpenMP by Barney](https://computing.llnl.gov/tutorials/openMP/)
 
 # Miscellaneous
 - http://choosealicense.com/
