@@ -54,6 +54,8 @@ You will likely be spending some time on a computer cluster through SSH, so havi
 ## C++
 - [A Tour of C++](https://isocpp.org/tour)
 - [C++ Tutorial for C Users](http://www.4p8.com/eric.brasseur/cppcen.html)
+- [C++ Primer by Lippman, Lajoie, & Moo](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
+- [Accelerated C++ by Koenig & Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
 
 ## (Modern) Fortran
 - [Modern Fortran](https://bitbucket.org/eric_t/modern-fortran/wiki/Home)
@@ -71,7 +73,6 @@ You will likely be spending some time on a computer cluster through SSH, so havi
 
 # Beyond the Basics
 - [The C++ Programming Language by Stroustrup](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
-- [C++ Primer by Lippman, Lajoie, & Moo](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
 - [Modern Fortran Explained by Metcalf, Reid, & Cohen](https://www.amazon.com/Explained-Numerical-Mathematics-Scientific-Computation/dp/0199601429)
 - [Pro Git by Chacon & Straub](https://git-scm.com/book/en/v2)
 - [Mastering Emacs by Petersen](https://www.masteringemacs.org/)
