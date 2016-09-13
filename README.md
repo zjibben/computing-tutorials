@@ -32,8 +32,8 @@ If you expect to be spending some time on a computer cluster through SSH, some f
 
 # Compilation and Build Systems
 - [Beginners Guide to GCC by Pakrashi](https://phoxis.org/2009/12/01/beginners-guide-to-gcc/)
-
-TODO: make and cmake
+- [Makefiles by Lin](https://www.cs.umd.edu/class/fall2002/cmsc214/Tutorial/makefile.html)
+- [CMake Tutorial by Lamp](https://www.johnlamp.net/cmake-tutorial-1-getting-started.html)
 
 # Coding Best Practices
 - https://github.com/thomasdavis/best-practices
