@@ -45,6 +45,7 @@ Some particularly important practices:
 
 # Version Control
 - [Learn Enough Git to Be Dangerous by Hartl](https://www.learnenough.com/git-tutorial)
+- `$ man gittutorial`
 - [How to Write a Git Commit Message by Beams](http://chris.beams.io/posts/git-commit/)
 
 # Unit Tests
