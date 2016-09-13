@@ -43,7 +43,7 @@ Some particularly important practices:
 - Write for cleanliness first and optimize later (after profiling). A priori performance predictions are often wrong, so starting off with complicated optimizations isn't worth the trouble.
 - Write testable code and unit tests.
 - Avoid non-const global variables. They make debugging more difficult and obscure data flow.
-- Write many short functions instead of a few large ones. This makes it easier to follow complex logic.
+- Write more short functions rather than fewer large ones. This makes it easier to follow complex logic.
 - Comment well, avoiding obvious comments.
 
 # Version Control
