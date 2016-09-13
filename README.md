@@ -9,7 +9,7 @@ Most resources here are freely available online, but in some cases a good book i
 - [Learn Enough Command Line to Be Dangerous by Hartl](https://www.learnenough.com/command-line-tutorial)
 
 # Text Editors
-You will likely be spending some time on a computer cluster through SSH, so having some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development.
+If you expect to be spending some time on a computer cluster through SSH, having some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development.
 
 ## Emacs
 - `C-h t` within Emacs or `$ emacs --eval "(help-with-tutor)"`
@@ -45,6 +45,8 @@ You will likely be spending some time on a computer cluster through SSH, so havi
 # Visualization
 
 # LaTeX
+- https://www.latex-tutorial.com/tutorials/
+- [LaTeX Mini-Tutorial by Corral](http://mecmath.net/latex-tutorial.pdf)
 
 # Programming Languages
 
@@ -52,14 +54,14 @@ You will likely be spending some time on a computer cluster through SSH, so havi
 - [The C Programming Language by Kernighan & Ritchie](https://archive.org/details/the_c_programming_language_2)
 
 ## C++
-- [A Tour of C++](https://isocpp.org/tour)
-- [C++ Tutorial for C Users](http://www.4p8.com/eric.brasseur/cppcen.html)
+- [A Tour of C++ by Stroustrup](https://isocpp.org/tour)
+- [C++ Tutorial for C Users by Brasseur](http://www.4p8.com/eric.brasseur/cppcen.html)
 - [C++ Primer by Lippman, Lajoie, & Moo](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
 - [Accelerated C++ by Koenig & Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
 
 ## (Modern) Fortran
 - [Modern Fortran](https://bitbucket.org/eric_t/modern-fortran/wiki/Home)
-- [Modern Programming Languages: Fortran 90/95/2003/2008](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
+- [Modern Programming Languages: Fortran 90/95/2003/2008 by Koesterke](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 
 ## Python
 - [Scipy Lecture Notes](http://www.scipy-lectures.org/)
@@ -78,3 +80,4 @@ You will likely be spending some time on a computer cluster through SSH, so havi
 - [Mastering Emacs by Petersen](https://www.masteringemacs.org/)
 - [Practical Vim by Neil](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
 - [The Not So Short Introduction to LaTeX by Oetiker et al](https://tobi.oetiker.ch/lshort/lshort.pdf)
+- [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX)
