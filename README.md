@@ -52,8 +52,12 @@ Some particularly important practices:
 - `$ man gittutorial`
 - [How to Write a Git Commit Message by Beams](http://chris.beams.io/posts/git-commit/)
 
-# Debugging & Profiling Tools
-TODO: gdb+ddd, valgrind, and gprof
+# Debugging & Profiling
+- [A Sample DDD Session](https://www.gnu.org/software/ddd/manual/html_mono/ddd.html#Sample%20Session)
+- [The Valgrind Quick Start Guide](http://valgrind.org/docs/manual/quick-start.html)
+- [GPROF Tutorial -- How to use Linux GNU GCC Profiling Tool by Arora](http://www.thegeekstuff.com/2012/08/gprof-tutorial/)
+- [How to profile C++ application with Callgrind / KCacheGrind by Wicht](http://baptiste-wicht.com/posts/2011/09/profile-c-application-with-callgrind-kcachegrind.html)
+
 
 # Visualization
 - http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html
