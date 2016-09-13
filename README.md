@@ -1,5 +1,5 @@
 # About
-This is a collection of tutorials useful for helping new students to get up and running in computational science. I try to limit myself to one good link for a given subject, so there is a lot of good material out on the web not listed here.
+This is a collection of tutorials useful for helping new students to get up and running in computational science. I try to limit to one good link for a given subject, so there is a lot of good material out on the web not listed here.
 
 Most resources here are freely available online, but in some cases a good book is also listed. Much of the intermediate-advanced material at the end are books.
 
@@ -65,7 +65,6 @@ Some particularly important practices:
 
 # LaTeX
 - https://www.latex-tutorial.com/tutorials/
-- [LaTeX Mini-Tutorial by Corral](http://mecmath.net/latex-tutorial.pdf)
 
 # Programming Languages
 
@@ -78,7 +77,7 @@ Some particularly important practices:
 - [C++ Primer by Lippman, Lajoie, & Moo](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
 - [Accelerated C++ by Koenig & Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
 
-## (Modern) Fortran
+## Modern Fortran
 - [Modern Programming Languages: Fortran 90/95/2003/2008 by Koesterke](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 
 ## Python
