@@ -85,6 +85,7 @@ Some particularly important practices:
 
 ## Python
 - [Scipy Lecture Notes](http://www.scipy-lectures.org/)
+- [The Python Tutorial](https://docs.python.org/3.5/tutorial/)
 
 # Parallel Computing
 - [MPI Tutorial by Kendall, Nath, & Bland](http://mpitutorial.com/)
