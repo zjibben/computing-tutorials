@@ -33,6 +33,8 @@ If you expect to be spending some time on a computer cluster through SSH, some f
 # Compilation and Build Systems
 - [Beginners Guide to GCC by Pakrashi](https://phoxis.org/2009/12/01/beginners-guide-to-gcc/)
 
+TODO: make and cmake
+
 # Coding Best Practices
 - https://github.com/thomasdavis/best-practices
 
