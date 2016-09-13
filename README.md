@@ -89,6 +89,8 @@ TODO: matplotlib and paraview
 # Beyond the Basics
 - [The C++ Programming Language by Stroustrup](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
 - [Modern Fortran Explained by Metcalf, Reid, & Cohen](https://www.amazon.com/Explained-Numerical-Mathematics-Scientific-Computation/dp/0199601429)
+- [The Quick Python Book by Ceder](https://www.amazon.com/Quick-Python-Book-Second/dp/193518220X)
+- [Fluent Python by Ramalho](https://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
 - [Pro Git by Chacon & Straub](https://git-scm.com/book/en/v2)
 - [Mastering Emacs by Petersen](https://www.masteringemacs.org/)
 - [Practical Vim by Neil](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
