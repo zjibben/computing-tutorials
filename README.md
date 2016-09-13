@@ -9,7 +9,7 @@ Most resources here are freely available online, but in some cases a good book i
 - [Learn Enough Command Line to Be Dangerous by Hartl](https://www.learnenough.com/command-line-tutorial)
 
 # Text Editors
-If you expect to be spending some time on a computer cluster through SSH, having some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development.
+If you expect to be spending some time on a computer cluster through SSH, some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development.
 
 ## Emacs
 - `C-h t` within Emacs or `$ emacs --eval "(help-with-tutor)"`
@@ -28,19 +28,24 @@ If you expect to be spending some time on a computer cluster through SSH, having
 
 ## Best Practices
 
-### Cleanliness First, Optimization Later
-### Avoid Global Variables
-### Keep Functions Short
+- https://github.com/thomasdavis/best-practices
+
+Some particularly important tips:
+
+- Write for cleanliness first, and optimize later (after profiling). A priori performance predictions are often wrong, so starting off with complicated optimizations isn't worth the trouble.
+- Avoid non-const global variables. They make debugging more difficult and obscure data flow.
+- Write many short functions instead of a few large ones. This makes it easier to follow complex logic.
+- Comment well, avoiding obvious comments.
 
 # Version Control
 - [Learn Enough Git to Be Dangerous by Hartl](https://www.learnenough.com/git-tutorial)
-- [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- [How to Write a Git Commit Message by Beams](http://chris.beams.io/posts/git-commit/)
 
 # Build Systems
 
 # Testing & Verification
 
-# Optimization
+# Profiling & Debugging Tools
 
 # Visualization
 
