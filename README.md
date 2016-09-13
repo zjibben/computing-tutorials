@@ -1,10 +1,9 @@
 # About
-This is a collection of tutorials useful for helping new students to get up and running in computational science.
+This is a collection of tutorials useful for helping new students to get up and running in computational science. I try to limit myself to one good link for a given subject, so there is a lot of good material out on the web not listed here.
 
-Most resources here are freely available online, but in some cases a good book is also listed. The advanced material provided at the end is almost entirely books available for purchase.
+Most resources here are freely available online, but in some cases a good book is also listed. Much of the intermediate-advanced material at the end are books.
 
 # Getting Started
-
 ## Running a UNIX-like Operating System
 For the most part, research software is written for UNIX-like operating systems. Mac users are already good to go, but it isn't a bad idea to be familiar with a Linux distribution too. If you're a Windows user, you will likely find it easiest to install Ubuntu, but any popular Linux distribution is fine. Below are two ways to set up Ubuntu.
 
@@ -57,7 +56,6 @@ Some particularly important practices:
 - [The Valgrind Quick Start Guide](http://valgrind.org/docs/manual/quick-start.html)
 - [GPROF Tutorial -- How to use Linux GNU GCC Profiling Tool by Arora](http://www.thegeekstuff.com/2012/08/gprof-tutorial/)
 - [How to profile C++ application with Callgrind / KCacheGrind by Wicht](http://baptiste-wicht.com/posts/2011/09/profile-c-application-with-callgrind-kcachegrind.html)
-
 
 # Visualization
 - http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html
