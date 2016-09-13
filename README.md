@@ -55,7 +55,10 @@ TODO
 TODO: gdb+ddd, valgrind, and gprof
 
 # Visualization
-TODO: matplotlib and paraview
+- http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html
+- [Using Paraview to Visualize Scientific Data](http://www.bu.edu/tech/support/research/training-consulting/online-tutorials/paraview/)
+- [Sandia National Laboratories Paraview Tutorials](http://www.paraview.org/Wiki/SNL_ParaView_4_Tutorials)
+- [Gnuplot Tutorial by Lindebaum](http://physicspmb.ukzn.ac.za/index.php/Gnuplot_tutorial)
 
 # LaTeX
 - https://www.latex-tutorial.com/tutorials/
