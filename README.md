@@ -81,7 +81,6 @@ Some particularly important practices:
 - [Accelerated C++ by Koenig & Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
 
 ## (Modern) Fortran
-- [Modern Fortran](https://bitbucket.org/eric_t/modern-fortran/wiki/Home)
 - [Modern Programming Languages: Fortran 90/95/2003/2008 by Koesterke](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 
 ## Python
