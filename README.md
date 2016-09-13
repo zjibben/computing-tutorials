@@ -48,10 +48,13 @@ Some particularly important practices:
 - [How to Write a Git Commit Message by Beams](http://chris.beams.io/posts/git-commit/)
 
 # Unit Tests
+TODO
 
-# Profiling & Debugging Tools
+# Debugging & Profiling Tools
+TODO: gdb+ddd, valgrind, and gprof
 
 # Visualization
+TODO: matplotlib and paraview
 
 # LaTeX
 - https://www.latex-tutorial.com/tutorials/
