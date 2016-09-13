@@ -20,19 +20,15 @@ If you expect to be spending some time on a computer cluster through SSH, some f
 - `$ vimtutor`
 - [A Vim Tutorial and Primer by Miessler](https://danielmiessler.com/study/vim/)
 
-# Software Development
+# Compilation and Build Systems
+- [Beginners Guide to GCC by Pakrashi](https://phoxis.org/2009/12/01/beginners-guide-to-gcc/)
 
-## How to Use a Compiler
-
-### Important Compiler Flags
-
-## Best Practices
-
+# Coding Best Practices
 - https://github.com/thomasdavis/best-practices
 
-Some particularly important tips:
+Some particularly important practices:
 
-- Write for cleanliness first, and optimize later (after profiling). A priori performance predictions are often wrong, so starting off with complicated optimizations isn't worth the trouble.
+- Write for cleanliness first and optimize later (after profiling). A priori performance predictions are often wrong, so starting off with complicated optimizations isn't worth the trouble.
 - Avoid non-const global variables. They make debugging more difficult and obscure data flow.
 - Write many short functions instead of a few large ones. This makes it easier to follow complex logic.
 - Comment well, avoiding obvious comments.
@@ -40,8 +36,6 @@ Some particularly important tips:
 # Version Control
 - [Learn Enough Git to Be Dangerous by Hartl](https://www.learnenough.com/git-tutorial)
 - [How to Write a Git Commit Message by Beams](http://chris.beams.io/posts/git-commit/)
-
-# Build Systems
 
 # Testing & Verification
 
