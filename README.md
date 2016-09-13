@@ -5,6 +5,16 @@ Most resources here are freely available online, but in some cases a good book i
 
 # Getting Started
 
+## Running a UNIX-like Operating System
+For the most part, research software is written for UNIX-like operating systems. Mac users are already good to go, but it isn't a bad idea to be familiar with a Linux distribution too. If you're a Windows user, you will likely find it easiest to install Ubuntu, but any popular Linux distribution is fine. Below are two ways to set up Ubuntu.
+
+- [Dual-Boot Ubuntu and Windows 10](http://www.everydaylinuxuser.com/2015/11/how-to-install-ubuntu-linux-alongside.html) (Recommended if you expect to use Ubuntu long-term)
+- [Install Ubuntu on Oracle VirtualBox](http://linus.nci.nih.gov/bdge/installUbuntu.html)
+
+## Installing Software
+- [Apt](https://help.ubuntu.com/lts/serverguide/apt.html) for Ubuntu (installed by default)
+- [Homebrew](http://brew.sh/) for Mac
+
 # Using the Terminal
 - [Learn Enough Command Line to Be Dangerous by Hartl](https://www.learnenough.com/command-line-tutorial)
 
@@ -37,7 +47,7 @@ Some particularly important practices:
 - [Learn Enough Git to Be Dangerous by Hartl](https://www.learnenough.com/git-tutorial)
 - [How to Write a Git Commit Message by Beams](http://chris.beams.io/posts/git-commit/)
 
-# Testing & Verification
+# Unit Tests
 
 # Profiling & Debugging Tools
 
