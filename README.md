@@ -57,7 +57,7 @@ Some particularly important practices:
 
 # Profiling
 - [GPROF Tutorial -- How to use Linux GNU GCC Profiling Tool by Arora](http://www.thegeekstuff.com/2012/08/gprof-tutorial/)
-- [How to profile C++ application with Callgrind / KCacheGrind by Wicht](http://baptiste-wicht.com/posts/2011/09/profile-c-application-with-callgrind-kcachegrind.html)
+- [How to profile C++ application with Callgrind / KCacheGrind by Wicht](http://baptiste-wicht.com/posts/2011/09/profile-c-application-with-callgrind-kcachegrind.html) (also applicable to C and Fortran programs)
 
 # Visualization
 - http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html
