@@ -37,10 +37,12 @@ TODO: make and cmake
 
 # Coding Best Practices
 - https://github.com/thomasdavis/best-practices
+- [Beginner's Guide to Unit Testing](https://www.codementor.io/development-process/tutorial/unit-testing-foundations-programming-beginners)
 
 Some particularly important practices:
 
 - Write for cleanliness first and optimize later (after profiling). A priori performance predictions are often wrong, so starting off with complicated optimizations isn't worth the trouble.
+- Write testable code and unit tests.
 - Avoid non-const global variables. They make debugging more difficult and obscure data flow.
 - Write many short functions instead of a few large ones. This makes it easier to follow complex logic.
 - Comment well, avoiding obvious comments.
@@ -49,9 +51,6 @@ Some particularly important practices:
 - [Learn Enough Git to Be Dangerous by Hartl](https://www.learnenough.com/git-tutorial)
 - `$ man gittutorial`
 - [How to Write a Git Commit Message by Beams](http://chris.beams.io/posts/git-commit/)
-
-# Unit Tests
-TODO
 
 # Debugging & Profiling Tools
 TODO: gdb+ddd, valgrind, and gprof
