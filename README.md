@@ -21,7 +21,7 @@ For the most part, research software is written for UNIX-like operating systems.
 If you expect to be spending some time on a computer cluster through SSH, some familiarity with a terminal-based text editor is a must even if it isn't your primary tool for development.
 
 ## Emacs
-- `C-h t` within Emacs or `$ emacs --eval "(help-with-tutor)"`
+- `C-h t` within Emacs or `$ emacs --eval "(help-with-tutorial)"`
 - [Absolute Beginner's Guide to Emacs by Hamrick](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
 - [Beginner's Guide to Emacs by Petersen](https://www.masteringemacs.org/article/beginners-guide-to-emacs)
 
