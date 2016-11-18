@@ -1,5 +1,5 @@
 # About
-This is a collection of tutorials useful for helping new students to get up and running in computational science. I try to limit to one good link for a given subject, so there is a lot of good material out on the web not listed here.
+This is a collection of tutorials useful for helping new students to get up and running for computing in science. I try to limit to one good link for a given subject, so there is a lot of good material out on the web not listed here.
 
 Most resources here are freely available online, but in some cases a good book is also listed. Much of the intermediate-advanced material at the end are books.
 
